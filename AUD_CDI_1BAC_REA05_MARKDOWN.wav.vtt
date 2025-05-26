@@ -1,0 +1,206 @@
+WEBVTT
+
+00:00.000 --> 00:05.200
+Hola equipo, soy Javert Cristóbal de enfoquenomada.com y este es un nuevo vídeo de la serie de productividad
+
+00:05.200 --> 00:09.480
+para emprendedores, en el te voy a enseñar todo lo que necesitas saber sobre Markdown,
+
+00:09.480 --> 00:13.480
+el lenguaje de marcado que te hará ahorrar tiempo y dolores de cabeza, y que es perfecto
+
+00:13.480 --> 00:18.520
+para minimalistas y nómadas digitales. Llevo muchos años utilizando este lenguaje,
+
+00:18.520 --> 00:23.160
+tanto que incluso creé la página de referencia en español markdown.es. Te recomiendo que
+
+00:23.160 --> 00:26.840
+te pases por allí al terminar el vídeo, ya que encontrarás todas las síntaxis de
+
+00:26.840 --> 00:34.040
+la que voy a hablarte ahora mismo, aplicaciones recomendadas y una sección dedicada a Multimarkdown,
+
+00:34.040 --> 00:37.520
+por si necesitas más potencia de la que este lenguaje ofrece de serie.
+
+00:37.520 --> 00:40.120
+Vamos allá. El elemento más básico que seguramente
+
+00:40.120 --> 00:45.640
+quieras comenzar a crear en Markdown son los encabezados. Existen hasta 6 niveles, y para
+
+00:45.640 --> 00:50.120
+generarlos no tienes más que añadir una almohadilla al comienzo de la palabra o frase.
+
+00:50.120 --> 00:56.100
+Por ejemplo, una almohadilla generará un encabezado de tipo H1. Dos almohadillas generarán
+
+00:56.100 --> 01:02.640
+un encabezado de tipo H2, y así hasta 6. Como ves, no hace falta que cierres la palabra
+
+01:02.640 --> 01:06.640
+o frase con las mismas almohadillas, aunque podrías hacerlo por estética, yo no te lo
+
+01:06.640 --> 01:10.080
+recomiendo ya que en algunas aplicaciones esto da problemas.
+
+01:10.080 --> 01:15.080
+Para añadir citas a tus textos, tan solo tienes que incluir el símbolo mayor que antes
+
+01:15.080 --> 01:21.720
+de las mismas, tal que así. Si quieres crear una cita con varios altos de línea, no tienes
+
+01:21.720 --> 01:27.400
+más que añadir el mismo símbolo en cada una de ellas.
+
+01:27.400 --> 01:32.040
+Las listas desordenadas que tanto cuesta generar con HTML no te llevarán nada de trabajo con
+
+01:32.040 --> 01:42.640
+Markdown, ya que solo tienes que comenzarlas con un guión para que se detecten automáticamente.
+
+01:42.640 --> 01:52.440
+Algunas aplicaciones aceptarán también asteriscos y símbolos de más para este fin.
+
+01:52.440 --> 01:56.120
+Si lo que quieres crear es una lista numerada, lo único que tienes que hacer es incluir
+
+01:56.120 --> 02:04.360
+el número seguido de un punto y un espacio antes de comenzar a escribir. La lista numerada
+
+02:04.360 --> 02:10.920
+se detectará automáticamente. Puedes hacer lo mismo para el resto de elementos.
+
+02:10.920 --> 02:14.980
+Si quieres, puedes combinar estas listas y anidarlas, para lo cual solamente tienes
+
+02:14.980 --> 02:21.440
+que incluir un espacio utilizando la tecla tabulador.
+
+02:21.440 --> 02:25.400
+Para incluir separaciones entre secciones de texto, basta con que escribas tres guiones
+
+02:25.400 --> 02:34.160
+bajos seguidos. Markdown intercambiará estos símbolos por la etiqueta HR.
+
+02:34.160 --> 02:38.600
+Como estás viendo, Markdown es muy simple e intuitivo. Ahora voy a enseñarte dos elementos
+
+02:38.600 --> 02:43.480
+que seguramente sean básicos para tus escritos, las negritas y las cursivas.
+
+02:43.480 --> 02:48.120
+Markdown admite dos maneras de crear estos estilos, mediante asteriscos o mediante guiones
+
+02:48.120 --> 02:51.720
+bajos. Yo te recomiendo utilizar siempre asteriscos.
+
+02:51.720 --> 02:58.720
+Si rodeas una palabra o frase con tan solo uno de estos elementos, por ejemplo el asterisco,
+
+02:58.720 --> 03:08.760
+aplicarás una cursiva al texto en cuestión. Si en vez de uno utilizas dos, se aplicará
+
+03:08.760 --> 03:13.920
+la famosa negrita o resaltado. Y como estarás imaginando, si quieres realizar
+
+03:13.920 --> 03:18.840
+ambas cosas, no tienes más que utilizar los tres elementos a la vez. De esta forma tendrías
+
+03:18.840 --> 03:24.760
+una palabra o frase en negrita y en cursiva. Para crear enlaces, no tienes más que añadir
+
+03:24.760 --> 03:33.600
+entre corchetes la palabra o frase que quieras utilizar como texto ancla, en mi caso, EnfoqueNomada,
+
+03:33.600 --> 03:43.640
+y acto seguido y entre paréntesis, el enlace en cuestión, tal que así.
+
+03:43.640 --> 03:48.540
+Puedes añadir información esta entrecomillada justo después del enlace, todavía entre
+
+03:48.540 --> 03:56.320
+los paréntesis, para que esto sea el title del enlace, tal como estás viendo en pantalla.
+
+03:56.320 --> 04:00.400
+Si quieres que la URL sea el propio enlace, no tienes por qué escribirla dos veces entre
+
+04:00.400 --> 04:05.520
+los corchetes y después entre los paréntesis. Basta con que incluyas la propia URL entre
+
+04:05.520 --> 04:14.520
+los símbolos menor que y mayor que. Las imágenes se añaden de una manera similar
+
+04:14.520 --> 04:19.040
+a los enlaces. En este caso, lo que tienes que hacer es escribir el texto alternativo
+
+04:19.040 --> 04:27.480
+asociado a las mismas entre corchetes y acto seguido y entre paréntesis la ruta de la
+
+04:27.480 --> 04:32.360
+imagen. Como ves, este método es idéntico al que acabo de enseñarte para los enlaces.
+
+04:32.360 --> 04:36.080
+Para que verdaderamente funcione como código para insertar imágenes, no tienes más que
+
+04:36.080 --> 04:42.220
+añadir un símbolo de exclamación al principio del mismo.
+
+04:42.220 --> 04:46.160
+Si escribes documentación técnica con Markdown, también puedes incluir cajetines de código
+
+04:46.160 --> 04:49.720
+de cualquier lenguaje de programación para que este no sea interpretado y se muestre
+
+04:49.720 --> 04:54.960
+de manera limpia. Si solo vas a incluir una palabra o frase, bastará con que la inicies
+
+04:54.960 --> 05:02.800
+con cuatro espacios en blanco, tal que así. Pero si vas a generar mucho más código,
+
+05:02.800 --> 05:06.640
+es más cómodo que simplemente lo encierres entre tres virgulillas por arriba y tres por
+
+05:06.640 --> 05:20.440
+abajo, de esta forma. Y si solo quieres resaltar código dentro de una frase, lo único que
+
+05:20.440 --> 05:30.680
+tienes que hacer es incluirlo entre dos acentos graves, aunque en este caso la previsualización
+
+05:30.680 --> 05:35.680
+nos aprecia muy bien. Como ves, Markdown utiliza símbolos comunes
+
+05:35.680 --> 05:39.520
+para marcar el texto de una manera muy rápida, así que es probable que ahora mismo te estés
+
+05:39.520 --> 05:43.960
+preguntando si no vas a poder utilizar dichos símbolos de manera normal. La respuesta es
+
+05:43.960 --> 05:48.040
+que sí, pero antes de los mismos tendrás que añadir una barra invertida, tal que así.
+
+05:48.040 --> 05:57.240
+De esta manera, si te fijas en la previsualización, esta dejará de estar en cursiva para mostrar
+
+05:57.240 --> 06:01.560
+los símbolos de Markdown. De esta forma, podrás seguir utilizando esos símbolos
+
+06:01.560 --> 06:04.760
+siempre que lo necesites. Con todo esto que has visto, ya estás listo
+
+06:04.760 --> 06:08.360
+para comenzar a utilizar Markdown en tu blog y en tu vida diaria.
+
+06:08.360 --> 06:11.960
+Recuerda que si quieres conocer cuáles son las mejores aplicaciones para sacarle el máximo
+
+06:11.960 --> 06:16.480
+potencial a este lenguaje, o si quieres aprender Markdown a nivel extremo creando tablas o
+
+06:16.480 --> 06:21.480
+notas al pie de página, te espero en markdown.es para explicártelo. Eso sí, no olvides darle
+
+06:21.480 --> 06:36.640
+al like y suscribirte antes de irte. Nos vemos en un próximo episodio. Ciao!
+

@@ -1,0 +1,20 @@
+﻿Sistema Inteligente Colectivo para COVID 19 (OMS)
+
+RECOLECCIÓN DE DATOS:
+Datos de telesalud
+Datos de hospitalización
+Reportes de pruebas de COVID 19
+Reporte de los trabajadores de primera línea. 
+Datos mensuales. 
+ANÁLISIS DE DATOS
+Universo de médicos
+Receta en línea
+Analítica de datos 
+Métrica de los riesgos
+Mapas de zona de alto riesgo. 
+Distritos y circuitos de alto riesgo. 
+Medidas preventivas y recomendaciones focalizadas. 
+TOMA DE DECICIONES
+Visualización de datos (Dashboard) para proveedores del sistema de salud. Decisiones médicas. 
+Visualización de datos (Dashboard) para el Gobierno (administradores, personal en el sitio, policía) Decisiones administrativas. 
+Comunicación a todos los actores (todos los médicos).

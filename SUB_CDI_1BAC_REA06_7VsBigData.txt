@@ -1,0 +1,15 @@
+﻿En el video se hace una presentación de las 7 Vs  del BigData. Son estas
+
+V 1: Volumen de Información. Cantidad de datos que son generados y se almacenan con la finalidad procesarlos para transformar los datos en acciones.
+
+V 2:  Velocidad de datos. Es la rapidez en la que los datos son creados, almacenados y procesados en tiempo real.
+
+V3: Variedad de dataos. Formas, tipos y fuentes en las que se registran los datos: documentos de texto, correos electrónicos, audios, vídeos o imágenes que tenemos en nuestro dispositivo móvil, perfiles de redes sociales, etc.
+
+V4: Veracidad de datos. Es la incertidumbre de los datos, es decir, al grado de fiabilidad de la información recibida.
+
+V5: Viabilidad. Capacidad que tienen las compañías en generar un uso eficaz del gran volumen de datos que manejan.
+
+V6: Visualización. Modo en el que los datos son presentados para encontrar patrones y claves ocultas en el tema a investigar.
+
+V7: Valor. Datos que se transforman en información; esta a su vez se convierte en conocimiento, y este en acción o en decisión.
